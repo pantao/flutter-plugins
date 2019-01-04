@@ -1,8 +1,8 @@
 name: pin_field
 description: Pin Field
 version: 0.0.1
-author:
-homepage:
+author: pantao<ofcrab@gmail.com>
+homepage: https://github.com/pantao/flutter-plugins/tree/master/packages/pin_field
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
